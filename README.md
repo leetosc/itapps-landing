@@ -8,6 +8,8 @@ Simple HTML/CSS template copied from HTML5up
 
 Just edit the HTML and CSS files.
 
+Run build task `⌘ ⇧ B` in vscode to transpile scss to `assets/css/styles.css`
+
 ## Deployment
 
 Served by Nginx.
